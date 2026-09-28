@@ -54,8 +54,6 @@ homebrew_casks:
       - azexempt
     dependencies:
       - formula: azure-cli
-    url:
-      verified: github.com/Lukas-Klein/azexempt/releases/download
     hooks:
       post:
         install: |
